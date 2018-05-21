@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 20 19:47:04 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-7ff3-0b35-00000828f270 
+on database directory memory:/Users/vaibhavshukla/Documents/Summer2018/CS5200/STSWorkspace/cs5200-summer2018-shukla/testdb with class loader sun.misc.Launcher$AppClassLoader@6e0be858 
+Loaded from file:/Users/vaibhavshukla/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/Users/vaibhavshukla/Documents/Summer2018/CS5200/STSWorkspace/cs5200-summer2018-shukla
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
